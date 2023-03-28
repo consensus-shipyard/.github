@@ -1,5 +1,3 @@
-![ConsensusLab logo](https://raw.githubusercontent.com/consensus-shipyard/.github/main/profile/consensuslab-logo-horiz-color.png)
-
 # ⚓ Welcome to the Consensus Shipyard ⚓
 
 ## ConsensusLab
