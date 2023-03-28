@@ -1,8 +1,6 @@
 # ⚓ Welcome to the Consensus Shipyard ⚓
 
-<p align="center">
-  ![ConsensusLab logo](consensuslab-logo-horiz-color.png)
-</p>
+![ConsensusLab logo](consensuslab-logo-horiz-color.png)
 
 ## ConsensusLab
 This is where [ConsensusLab](https://consensuslab.world/) builds its fleet. 
