@@ -12,4 +12,4 @@ Tip: start by checking out the pinned repositories!
 Follow @ConsensusLab_ on [Twitter](https://twitter.com/ConsensusLab_) and [YouTube](https://www.youtube.com/@ConsensusLab_).
 
 ## License
-MIT + Apache 2.0
+MIT + Apache 2.0, except where otherwise noted.
