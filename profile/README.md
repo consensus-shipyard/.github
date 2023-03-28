@@ -1,7 +1,7 @@
 # ⚓ Welcome to the Consensus Shipyard ⚓
 
 <p align="center">
-  <img src="consensuslab-logo-horiz-color.png">
+  ![ConsensusLab logo](consensuslab-logo-horiz-color.png)
 </p>
 
 ## ConsensusLab
