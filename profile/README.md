@@ -4,7 +4,7 @@
 This is where [ConsensusLab](https://consensuslab.world/) builds its fleet. 
 
 ## Interplanetary Consensus (IPC)
-There is a very good chance you came ashore in a quest to learn more about IPC. You have come to the right place, though we recommend having a look at the [project website](https://ipc.space/) for a higher-level overview. 
+There is a very good chance you came ashore in a quest to learn more about IPC. You have come to the right place, though we recommend having a look at the [project website](https://ipc.space/) for a higher-level overview and at the [design reference](https://github.com/consensus-shipyard/IPC-design-reference-spec/blob/main/main.pdf) for more details.
 
 Tip: start by checking out the pinned repositories!
 
